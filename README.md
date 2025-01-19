@@ -50,7 +50,7 @@ NOTE- click for_[Sales Reports Based on Objectives]([http://dev.nodeca.com](http
 3. **Yearly Profit and Loss Report**: Review the financial performance over the years. = click for_[P&L By Fiscal Year]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf
 ))
 4. **Quarterly Profit and Loss Comparison**: Look at the quarterly profit and loss data. = click for_[P&L Statement by Months]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf))
-5. **Profit and Loss by Market**: Review the profit and loss for different regions. = click for_[P&L by Market]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf))
+5. **Profit and Loss by Market**: Review the profit and loss for different regions. = click for _[P&L by Market]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf))
 6. **Quarterly Gross Margin by Location**: Analyze the profitability of each region. = click for_[GM% by Sub Zone](
 https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/GM%25%20sub%20zone.pdf)
 
