@@ -22,7 +22,7 @@ This project aims to create an interactive **Sales and Finance Analytics Report*
 4. **New Products Introduced in 2021**: Highlight new products AtliQ started selling in 2021.
 5. **Top 5 Countries by Sales in 2021**: Identify the top 5 countries where AtliQ made the most sales in 2021.
 
-   [Sales Report Based on Objectives]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/product-country-division-newproduct%20level%20report..pdf))
+NOTE- click for [Sales Reports Based on Objectives]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/product-country-division-newproduct%20level%20report..pdf))
 
 ### Sales Insights
 
@@ -45,12 +45,14 @@ This project aims to create an interactive **Sales and Finance Analytics Report*
 
 ### Objectives
 
-1. **Customer Net Sales Performance**: Track the total revenue earned from customers. [Customer Performance Report](http://dev.nodeca.com)
-2. **Market Performance vs. Sales Targets**: Compare actual sales with targets set for different markets. [Market Performance vs. Sales Targets Report](http://dev.nodeca.com)
-3. **Yearly Profit and Loss Report**: Review the financial performance over the years. [P&L By Fiscal Year](http://dev.nodeca.com)
-4. **Quarterly Profit and Loss Comparison**: Look at the quarterly profit and loss data. [P&L Statement by Months](http://dev.nodeca.com)
-5. **Profit and Loss by Market**: Review the profit and loss for different regions. [P&L by Market](http://dev.nodeca.com)
-6. **Quarterly Gross Margin by Location**: Analyze the profitability of each region. [GM% by Sub Zone](http://dev.nodeca.com)
+1. **Customer Net Sales Performance**: Track the total revenue earned from customers. = click for [Customer Performance Report]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf))
+2. **Market Performance vs. Sales Targets**: Compare actual sales with targets set for different markets. = click for [Market Performance vs. Sales Targets Report]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
+3. **Yearly Profit and Loss Report**: Review the financial performance over the years. = click for [P&L By Fiscal Year]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf
+))
+4. **Quarterly Profit and Loss Comparison**: Look at the quarterly profit and loss data. = click for [P&L Statement by Months]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf))
+5. **Profit and Loss by Market**: Review the profit and loss for different regions. = click for [P&L by Market]([http://dev.nodeca.com](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20FY.pdf))
+6. **Quarterly Gross Margin by Location**: Analyze the profitability of each region. = click for [GM% by Sub Zone](
+https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/GM%25%20sub%20zone.pdf)
 
 ### Financial Insights
 
