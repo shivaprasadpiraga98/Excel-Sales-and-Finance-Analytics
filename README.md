@@ -25,6 +25,10 @@ This project aims to create an interactive **Sales and Finance Analytics Report*
 
 NOTE- click for_[Sales Reports Based on Objectives](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/product-country-division-newproduct%20level%20report..pdf)
 
+## Role of Sales Reports
+
+Sales reports help determine the right customer discounts, support negotiations with customers, and identify opportunities for business expansion in promising countries.
+
 ### Sales Insights
 
 - **Top 10 Products with the Most Sales Growth**: Products like the **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC** had the largest sales growth.
@@ -54,6 +58,11 @@ NOTE- click for_[Sales Reports Based on Objectives](https://github.com/shivapras
 6. **Quarterly Gross Margin by Location**: Analyze the profitability of each region. = click for_[GM% by Sub Zone](
 https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/GM%25%20sub%20zone.pdf)
 
+
+## Role of Finance Reports
+
+Finance reports align financial planning with business goals and help build confidence in the organization’s financial outlook.
+
 ### Financial Insights
 
 - **Customer Net Sales Performance**: Revenue increased from **$87.5 million** in 2019 to **$598.9 million** in 2021, a growth of **304.5%**.
@@ -62,15 +71,6 @@ https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/ma
 - **Quarterly Profit and Loss**: Despite increased costs, **2021** saw significant growth in sales with stable profits.
 - **Profit and Loss by Market**: **Japan** and **New Zealand** had the best profit margins, while **Germany** showed lower margins.
 - **Quarterly Gross Margin by Location**: Profit margins varied by region, which will help make more informed strategic decisions.
-
----
-## Role of Sales Reports
-
-Sales reports help determine the right customer discounts, support negotiations with customers, and identify opportunities for business expansion in promising countries.
-
-## Role of Finance Reports
-
-Finance reports align financial planning with business goals and help build confidence in the organization’s financial outlook.
 
 ---
 
