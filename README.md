@@ -84,12 +84,12 @@ Finance reports align financial planning with business goals and help build conf
 - Proficient in using **DAX** to create **calculated columns**.
 - Conditional Formatting
 
-
----
-
 ## Soft Skills
 
 - Strong understanding of **Sales** and **Finance** domain
+
+---
+
 
 ## Overall Insights
 
