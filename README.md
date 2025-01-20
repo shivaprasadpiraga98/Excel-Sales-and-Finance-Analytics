@@ -1,20 +1,21 @@
-# Excel-Sales-and-Finance-Analytics
+# Excel- Sales and Finance Analytics - AtliQ Hardware
 
-# AtliQ Hardware Business Intelligence Reports
 
-## Introduction
+## 📋 Project Overview
+
 AtliQ Hardware sells various hardware products such as personal computers like mouses, printers, and other peripherals. We manufacture these products and sell them through well-known retail stores like Croma and Best Buy etc, as well as popular online platforms such as Flipkart and Amazon etc. These stores help us reach many customers, ensuring our products are widely available.
 
 ---
 
 ## Problem Statement
+
 This project aims to create an interactive **Sales and Finance Analytics Report** for AtliQ Hardware. The goal is to generate insights from these reports to help AtliQ develop effective strategies for business growth.
 
 ---
 
 ## Sales Analytics
 
-### Objectives
+### 📊 Key Objectives
 
 1. **Top 10 Products with the Most Sales Growth**: Identify products with the highest sales increase from 2020 to 2021.
 2. **Sales Report by Division**: Compare total sales for 2020 and 2021 to see how much sales grew.
@@ -43,7 +44,7 @@ NOTE- click for_[Sales Reports Based on Objectives](https://github.com/shivapras
 
 ## Financial Analytics
 
-### Objectives
+### 📊 Key Objectives
 
 1. **Customer Net Sales Performance**: Track the total revenue earned from customers. = click for_[Customer Performance Report](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2. **Market Performance vs. Sales Targets**: Compare actual sales with targets set for different markets. = click for_[Market Performance vs. Sales Targets Report](https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
@@ -64,24 +65,30 @@ https://github.com/shivaprasadpiraga98/Excel-Sales-and-Finance-Analytics/blob/ma
 
 ---
 ## Role of Sales Reports
+
 Sales reports help determine the right customer discounts, support negotiations with customers, and identify opportunities for business expansion in promising countries.
 
 ## Role of Finance Reports
+
 Finance reports align financial planning with business goals and help build confidence in the organization’s financial outlook.
 
 ---
 
 ## Technical Skills
+
 - Proficient in the **ETL (Extract, Transform, Load)** process.
 - Skilled in generating **date tables** using Power Query.
 - Ability to calculate **fiscal months** and **quarters**.
 - Experience in setting up **data model relationships** using Power Pivot.
 - Capable of integrating additional data into an existing data model.
 - Proficient in using **DAX** to create **calculated columns**.
+- Conditional Formatting
+
 
 ---
 
 ## Soft Skills
+
 - Strong understanding of **Sales** and **Finance** domain
 
 ## Overall Insights
